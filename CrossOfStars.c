@@ -3,6 +3,7 @@
 #include<math.h>
 int main()
 {
+    //Lets get started
     int n;
     printf("Enter the numbers: ");
     scanf("%d", &n);
